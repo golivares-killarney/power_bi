@@ -1,3 +1,3 @@
 urn,license
-urn:li:enterpriseAccount:102020764,114641404,base
-urn:li:enterpriseAccount:73045713,82174561,pro
+urn:li:enterpriseAccount:73045713,base
+urn:li:enterpriseAccount:102020764,pro
